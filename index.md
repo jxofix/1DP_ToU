@@ -1,4 +1,4 @@
-# General Terms of Use for Digital Products
+<h1>General Terms of Use for Digital Products</h1>
 	
 <div>These Terms of Use for Digital Products set out the general conditions for providing our products and services in digital environment (“General Terms”) and also specific conditions that apply to the provision of some of these products and services (“Specific Terms”). You can see below our mutual rights and obligations regarding the digital products, and other useful information about our relationship with you as a consumer (“Customer” or “you”). We encourage you to carefully read the General Terms and Specific Terms (collectively, “Terms”). Should you have questions, you can contact our customer service through [INSERT] or watch our explanatory videos.</div>
 <br>
