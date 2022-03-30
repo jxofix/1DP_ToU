@@ -228,7 +228,7 @@
 
 
 <details><summary style="font-size: 18px; font-weight: bold">OTHER PROVISIONS YOU SHOULD KNOW</summary>
-<p style="margin-left: 3vw">The vehicle itself and its equipment are governed exclusively by the terms and conditions in the vehicle order (purchase, leasing or rental contract).
+<p style="margin-left: 3vw">The vehicle itself and its equipment are governed exclusively by the terms and conditions in the vehicle order (purchase, leasing or rental contract). </p>
 <p style="margin-left: 3vw">If you are a consumer, ŠKODA AUTO is only able to take legal action against you before the court responsible for your domicile or normal place of residence. You are able to take legal action against ŠKODA AUTO at the court responsible for our domicile or normal place of residence and at any legally approved place of jurisdiction. </p>
 
 <p style="margin-left: 3vw">In accordance with the provisions of Regulation (EU) No 524/2014 of the European Parliament and of the Council of 21 May 2013 ("the Regulation"), you are entitled to use the out-of-court resolution of disputes concerning contractual obligations arising from contract on the digital product concluded between the Customer resident in the EU and ŠKODA AUTO established in the EU through the intervention of an ADR entity listed in accordance with Article 20 (2) of Directive 2013/11/EU and using the platform for Online Dispute Resolution. This platform is available under <a href="https://ec.europa.eu/consumers/odr/main/event=main.adr.show2">https://ec.europa.eu/consumers/odr/main/?event=main.adr.show2</a>.</p> 
@@ -284,3 +284,4 @@
 <p style="margin-left: 3vw"> (*) Delete as applicable.</p>
 <p style="margin-left: 3vw"> (**) You can find the VIN on the bottom edge of the windscreen and in the Vehicle registration documents. .</p>
 <p style="margin-left: 3vw"> (***) Available on ŠKODA Connect Portal, User profile. .</p>
+</details>
