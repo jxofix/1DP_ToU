@@ -53,8 +53,7 @@
 
 <div style="margin-left: 4.5vw">Optionally, you can store further data, e.g., your address or profile picture, in your ŠKODA ID at the time of registration. Storing this data enables other digital products used by you to access this data without you having to enter it again, provided you agree to such use by the respective digital product in each individual case.</div><br>
 
-<div style="margin-left: 4.5vw">All the information needed to use your ŠKODA ID, e.g., how to activate your ŠKODA ID or how to reset your password, will be sent to the email address or telephone number provided by you. At any time, you have the possibility to set another valid email address or telephone number as a username or to change your password via the settings in your ŠKODA ID.</div><br>
-</div>
+<div style="margin-left: 4.5vw">All the information needed to use your ŠKODA ID, e.g., how to activate your ŠKODA ID or how to reset your password, will be sent to the email address or telephone number provided by you. At any time, you have the possibility to set another valid email address or telephone number as a username or to change your password via the settings in your ŠKODA ID.</div>
 </details>
 <br>
 
@@ -64,8 +63,7 @@
 
 <div style="margin-left: 4.5vw"> You can start using your ŠKODA ID to sign on to digital products. You also have the option to view and remove the link to the digital products connected to your ŠKODA ID. If you remove a link between a digital product and the ŠKODA ID, you can no longer sign onto this digital product with the ŠKODA ID. If you want to use the digital product after you have removed the link, but continue to use your ŠKODA ID, you must sign onto this digital product again with your ŠKODA ID. </div><br>
 
-<div style="margin-left: 4.5vw"> You also have the option to create a new ŠKODA ID to sign into this digital product. Please note: If your ŠKODA ID is used to fulfil existing contractual obligations towards you (e.g., in the case of prepaid services), when disconnecting the digital service, the registration of a new ŠKODA ID is required to continue using such digital product. </div><br>
-</div>
+<div style="margin-left: 4.5vw"> You also have the option to create a new ŠKODA ID to sign into this digital product. Please note: If your ŠKODA ID is used to fulfil existing contractual obligations towards you (e.g., in the case of prepaid services), when disconnecting the digital service, the registration of a new ŠKODA ID is required to continue using such digital product. </div>
 </details>
 <br>
 
@@ -73,8 +71,7 @@
 
 <div style="margin-left: 4.5vw"> You can view, edit and delete the data you have entered at any time via the settings in your ŠKODA ID account. </div><br>
 
-<div style="margin-left: 4.5vw"> You can also delete your ŠKODA ID entirely. As soon as you have deleted your ŠKODA ID, you can no longer use it to sign onto the digital products connected with this ŠKODA ID. If your ŠKODA ID is used for the fulfilment of existing contractual obligations by you (e.g., for payable services), prior cancellation of the digital product, or the registration of a new ŠKODA ID in order to continue to use the digital product, is necessary. In the case of cancellation of the digital product, the deletion of your ŠKODA ID can only be carried out after the end of the duration of the contract for this digital product (if using several digital products, only after the expiry of the longest contract). </div><br>
-</div>
+<div style="margin-left: 4.5vw"> You can also delete your ŠKODA ID entirely. As soon as you have deleted your ŠKODA ID, you can no longer use it to sign onto the digital products connected with this ŠKODA ID. If your ŠKODA ID is used for the fulfilment of existing contractual obligations by you (e.g., for payable services), prior cancellation of the digital product, or the registration of a new ŠKODA ID in order to continue to use the digital product, is necessary. In the case of cancellation of the digital product, the deletion of your ŠKODA ID can only be carried out after the end of the duration of the contract for this digital product (if using several digital products, only after the expiry of the longest contract). </div>
 </details>
 <br>
 
@@ -84,8 +81,7 @@
 
 <div style="margin-left: 4.5vw"> When using your ŠKODA ID, we strongly recommend that you take the available measures (e.g., device password, graphic pattern etc.) to protect the affected end devices against misuse by unauthorized third parties. </div><br>
 
-<div style="margin-left: 4.5vw"> If the password is disclosed to an unauthorized third party, you must change the password immediately or, if you can no longer log into your ŠKODA ID, you must contact ŠKODA AUTO’s customer service immediately. You are solely responsible for any damage caused to ŠKODA AUTO or third parties as a result of the loss or transfer of login data.</div><br>
-</div>
+<div style="margin-left: 4.5vw"> If the password is disclosed to an unauthorized third party, you must change the password immediately or, if you can no longer log into your ŠKODA ID, you must contact ŠKODA AUTO’s customer service immediately. You are solely responsible for any damage caused to ŠKODA AUTO or third parties as a result of the loss or transfer of login data.</div>
 </details>
 <br>
 
@@ -95,8 +91,7 @@
 
 <div style="margin-left: 4.5vw"> ŠKODA ID is non-transferable and you are not entitled to transfer you ŠKODA ID to another person without ŠKODA AUTO’s permission. </div><br>
 
-<div style="margin-left: 4.5vw"> Note that you are subject to certain restrictions and obligations when using ŠKODA ID. See section YOUR RIGHTS AND OBLIGATIONS in these Terms. </div><br>
-</div>
+<div style="margin-left: 4.5vw"> Note that you are subject to certain restrictions and obligations when using ŠKODA ID. See section YOUR RIGHTS AND OBLIGATIONS in these Terms. </div>
 </details>
 </details>
 <br>
