@@ -14,7 +14,6 @@
 <p style="margin-left: 3vw"> Detailed description and specification of the digital products is provided in the section SPECIFIC TERMS FOR PARTICULAR DIGITAL PRODUCTS and also on the website, application or infotainment.
 </p>
 </details>
-</details>
 <br>
 <details><summary style="font-size: 18px; font-weight: bold">INTERFACES FOR DIGITAL PRODUCTS</summary>
 <p style="margin-left: 3vw">You can access the digital products through multiple interfaces:</p>
