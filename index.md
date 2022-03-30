@@ -4,7 +4,7 @@
 <br>
 
 <details><summary style="font-size: 18px; font-weight: bold">OUR DIGITAL PRODUCTS</summary>
-<p style="margin-left: 3vw"> We provide you with products and services in the digital environment. To make these Terms easier to understand, we will use the term “digital products” in this text for our following digital products and services:  
+<p style="margin-left: 3vw"> We provide you with products and services in the digital environment. To make these Terms easier to understand, we will use the term “digital products” in this text for our following digital products and services:</p>  
 <ul style="margin-left: 5vw"> 
    <li>your digital ŠKODA ID account,</li>
    <li>ŠKODA Digital Connectivity Services (including Smartlink and Car Feedback),</li>
