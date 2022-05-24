@@ -155,7 +155,7 @@ details[open]>summary {
 </details>
 <p><br /></p>
 
-<details><summary style="font-size: 18px; font-weight: bold"; id="YOUR OTHER RIGHTS AND OBLIGATIONS">Your other rights and obligations</summary>
+<details><summary style="font-size: 18px; font-weight: bold;" id="YOUR OTHER RIGHTS AND OBLIGATIONS">Your other rights and obligations</summary>
 
 <p style="margin-left: 3vw; font-weight: bold">What rights do you have when using the digital products? </p>
 
